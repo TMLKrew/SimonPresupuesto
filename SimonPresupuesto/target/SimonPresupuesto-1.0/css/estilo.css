@@ -1,0 +1,45 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 20-oct-2017, 9:37:19
+    Author     : Simon
+*/
+@CHARSET "UTF-8";
+img {width: 80%;}
+img#logo {height: 25%; width:25%}
+body {
+    font-family: Verdana;
+    font-size: 1.1em;
+}
+div#contenedor {
+    width: 100%;
+    border: 2px outset #cc00ff;
+}
+div#contenedor div.exterior {
+    width: 45%;
+    float: left;
+    text-align: center;
+    height: 20%;
+   
+}
+
+div.limpiar {
+    clear: both;  
+}
+div.limpiar p{
+      background-color: darkred;
+    color:white;
+}
+em{font-weight: bold }
+div#formulario{text-align: left;
+               clear: both;
+                padding-top: 2%;
+                margin: 5% 5% 3%;}
+div#formulario table{margin:1%}
+div#visualizar{text-align: center;
+               clear: both;
+                padding-top: 2%;
+                margin: 5% 5% 3%;}
