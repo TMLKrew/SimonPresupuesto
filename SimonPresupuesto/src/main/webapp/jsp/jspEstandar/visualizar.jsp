@@ -14,7 +14,7 @@
         <title>JSP Page</title>
         <link rel="stylesheet" type="text/css" href="<%=request.getContextPath()%>/css/estilo.css">
     </head>
-    
+    <%-- NO VISUALIZAS LOS DATOS QUE HA INTRODUCIDO EL USUARIO NI LA PRIMA DE CADA SEGURO SOLO LA TOTAL --%>
         <%@include file="../../inc/cabecera.inc"%>
         
             <% HttpSession sesion = request.getSession();

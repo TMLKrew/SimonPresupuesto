@@ -19,14 +19,14 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 import org.apache.commons.beanutils.BeanUtils;
-
+// LOS SERVLETS SON CLASES Y COMO TALES SU NOMBRE TIENE QUE COMENZAR POR MAYÚSCULAS
 /**
  *
  * @author Simon
  */
 @WebServlet(name = "eleccion", urlPatterns = {"/eleccion"})
 public class eleccion extends HttpServlet {
-
+// ESTE MÉTODO NO HACE NADA POR LO TANTO ELIMINALO
     /**
      * Processes requests for both HTTP <code>GET</code> and <code>POST</code>
      * methods.
