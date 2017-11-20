@@ -1,7 +1,7 @@
-/Users/Jesus/Documents/INSTITUTO/Desarrollo web en entorno servidor/ALUMNOS/Ejercicios/2017 - 2018/Presupuesto/SimonPresupuesto/SimonPresupuesto/src/main/java/es/albarregas/seguromvc/controllers/eleccion.java
-/Users/Jesus/Documents/INSTITUTO/Desarrollo web en entorno servidor/ALUMNOS/Ejercicios/2017 - 2018/Presupuesto/SimonPresupuesto/SimonPresupuesto/src/main/java/es/albarregas/seguromvc/beans/Edificio.java
-/Users/Jesus/Documents/INSTITUTO/Desarrollo web en entorno servidor/ALUMNOS/Ejercicios/2017 - 2018/Presupuesto/SimonPresupuesto/SimonPresupuesto/src/main/java/es/albarregas/seguromvc/models/CalcularCuota.java
-/Users/Jesus/Documents/INSTITUTO/Desarrollo web en entorno servidor/ALUMNOS/Ejercicios/2017 - 2018/Presupuesto/SimonPresupuesto/SimonPresupuesto/src/main/java/es/albarregas/seguromvc/beans/Eleccion.java
-/Users/Jesus/Documents/INSTITUTO/Desarrollo web en entorno servidor/ALUMNOS/Ejercicios/2017 - 2018/Presupuesto/SimonPresupuesto/SimonPresupuesto/src/main/java/es/albarregas/seguromvc/controllers/edificio.java
-/Users/Jesus/Documents/INSTITUTO/Desarrollo web en entorno servidor/ALUMNOS/Ejercicios/2017 - 2018/Presupuesto/SimonPresupuesto/SimonPresupuesto/src/main/java/es/albarregas/seguromvc/controllers/contenido.java
-/Users/Jesus/Documents/INSTITUTO/Desarrollo web en entorno servidor/ALUMNOS/Ejercicios/2017 - 2018/Presupuesto/SimonPresupuesto/SimonPresupuesto/src/main/java/es/albarregas/seguromvc/beans/Contenido.java
+C:\Users\Simon\Documents\NetBeansProjects\SimonPresupuesto\src\main\java\es\albarregas\seguromvc\beans\Edificio.java
+C:\Users\Simon\Documents\NetBeansProjects\SimonPresupuesto\src\main\java\es\albarregas\seguromvc\controllers\SeguroContenido.java
+C:\Users\Simon\Documents\NetBeansProjects\SimonPresupuesto\src\main\java\es\albarregas\seguromvc\beans\Eleccion.java
+C:\Users\Simon\Documents\NetBeansProjects\SimonPresupuesto\src\main\java\es\albarregas\seguromvc\controllers\TipoEleccion.java
+C:\Users\Simon\Documents\NetBeansProjects\SimonPresupuesto\src\main\java\es\albarregas\seguromvc\models\CalcularCuota.java
+C:\Users\Simon\Documents\NetBeansProjects\SimonPresupuesto\src\main\java\es\albarregas\seguromvc\controllers\SeguroEdificio.java
+C:\Users\Simon\Documents\NetBeansProjects\SimonPresupuesto\src\main\java\es\albarregas\seguromvc\beans\Contenido.java

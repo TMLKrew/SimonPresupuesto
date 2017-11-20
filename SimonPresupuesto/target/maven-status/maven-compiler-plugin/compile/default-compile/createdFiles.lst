@@ -1,0 +1,7 @@
+es\albarregas\seguromvc\controllers\TipoEleccion.class
+es\albarregas\seguromvc\models\CalcularCuota.class
+es\albarregas\seguromvc\beans\Eleccion.class
+es\albarregas\seguromvc\beans\Contenido.class
+es\albarregas\seguromvc\controllers\SeguroEdificio.class
+es\albarregas\seguromvc\controllers\SeguroContenido.class
+es\albarregas\seguromvc\beans\Edificio.class

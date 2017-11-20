@@ -3,21 +3,21 @@
     Created on : 19-oct-2017, 16:48:41
     Author     : Simon
 --%>
-
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page Edificio</title>
-        <link rel="stylesheet" type="text/css" href="<%=request.getContextPath()%>/css/estilo.css">
+        <title>JSP LE Edificio</title>
+        <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/css/estilo.css">
     </head>
     <body>
-          <%@include file="../../inc/cabecera.inc"%>
+        <c:import url="/inc/cabecera.inc"/>
         <div id="formulario">
         <h2>Detalles de la póliza de edificios</h2>
         <p><em>Sírvase proporcionar información acerca de dónde usted vive en el siguiente formulario, y a continuación, haga clic en Enviar</em></p>
-        <form action="<%=request.getContextPath()%>/edificio" method="post">
+        <form action="${pageContext.request.contextPath}/edificio" method="post">
         <table>           
             <tr>
                 <td>Tipo de edificio:</td>
@@ -78,6 +78,6 @@
         <input type="submit" name="enviar" value="Enviar">
         </form>
          </div>
-        <%@include file="../../inc/pie.inc" %>
+        <c:import url="/inc/pie.inc"/>  
     </body>
 </html>

@@ -38,8 +38,14 @@ div#formulario{text-align: left;
                clear: both;
                 padding-top: 2%;
                 margin: 5% 5% 3%;}
-div#formulario table{margin:1%}
 div#visualizar{text-align: center;
                clear: both;
                 padding-top: 2%;
                 margin: 5% 5% 3%;}
+#edificio,#contenido {    
+    text-align: left;
+}
+
+#inicio {
+    clear:both;
+}
