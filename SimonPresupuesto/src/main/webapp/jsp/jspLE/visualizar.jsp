@@ -67,10 +67,10 @@
                     <tr>
                         <td>Cantidad asegurada:</td>
                         <td><fmt:formatNumber type="currency" value="${contenido.cantidadAseg}"/></td>
-                    </tr>fmt:out
+                    </tr>
                     <tr>
                         <td>Franquicia:</td>
-                        <td><fmt:formatNumber type="currency" value="${contenido.franquicia}"/>
+                        <td><fmt:formatNumber type="currency" value="${contenido.franquicia}"/></td>
                     </tr>             
                 </table>
                 <h4>Presupuesto: <fmt:formatNumber type="currency" value="${contenido.cuota}"/></h4>
